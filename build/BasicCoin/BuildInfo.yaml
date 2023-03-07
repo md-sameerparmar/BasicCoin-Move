@@ -1,0 +1,20 @@
+---
+compiled_package_info:
+  package_name: BasicCoin
+  address_alias_instantiation:
+    NamedAddr: 000000000000000000000000000000000000000000000000000000000000cafe
+    std: "0000000000000000000000000000000000000000000000000000000000000001"
+  source_digest: 18CCDBA674AA1DA47B4DD0B1763D71709F87E9B8C4BB62E1576F67B3DA012DF1
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    skip_fetch_latest_git_deps: false
+dependencies:
+  - MoveStdlib
